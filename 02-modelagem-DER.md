@@ -25,8 +25,6 @@ Neste modelo com as entidades **Professor**, **Aluno** e **Disciplina**:
 - **Chaves Primárias (PK):** Atributo `código` nas entidades Professor, Aluno e Disciplina.
 - **Chave Secundária:** Atributo `Matrícula` na entidade Aluno.
 
----
-
-## Ferramentas Úteis
+### Ferramentas Úteis
 - **Automáticas (IA):** [QuickDBD](https://www.quickdatabasediagrams.com/) e [DbDiagram.io](https://dbdiagram.io/).
 - **Manual:** [Creately](https://creately.com/).
