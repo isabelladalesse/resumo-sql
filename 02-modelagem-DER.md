@@ -27,6 +27,6 @@ Neste modelo com as entidades **Professor**, **Aluno** e **Disciplina**:
 
 ---
 
-## 🛠️ Ferramentas Úteis
+## Ferramentas Úteis
 - **Automáticas (IA):** [QuickDBD](https://www.quickdatabasediagrams.com/) e [DbDiagram.io](https://dbdiagram.io/).
 - **Manual:** [Creately](https://creately.com/).
