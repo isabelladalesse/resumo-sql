@@ -1,7 +1,7 @@
 # Resumo Completo de SQL
 Este repositório reúne um resumo organizado de SQL, cobrindo desde conceitos básicos até consultas com JOINs, com exemplos práticos.
 
-## Conteúdos inclusos
+## Conteúdos abordados
 - Introdução ao SQL
 - Modelagem de Dados (MER e DER)
 - DDL: estruturando o banco de dados
