@@ -90,5 +90,4 @@ CREATE TABLE disciplina (
   	ON DELETE SET DEFAULT
 );
 ```
-
-Note que nesse código o relacionamento professor leciona disciplina está definido pela chave estrangeira codigo_prof, enquanto o relacionamento aluno cursa disciplina ainda não foi configurado.
+> **Nota:** nesse código o relacionamento professor leciona disciplina está definido pela chave estrangeira codigo_prof, enquanto o relacionamento aluno cursa disciplina ainda não foi configurado.
