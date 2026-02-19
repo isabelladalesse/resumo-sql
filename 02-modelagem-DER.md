@@ -10,7 +10,6 @@ Tradicionalmente, utilizamos formas geométricas específicas para cada elemento
 ## Exemplo de Diagrama Entidade x Relacionamento
 
 <img width="693" height="548" alt="image" src="https://github.com/user-attachments/assets/949f98f4-f160-47f2-a383-224df761913f" />
-<img width="693" height="548" alt="image" src="https://github.com/user-attachments/assets/949f98f4-f160-47f2-a383-224df761913f" />
 
 Neste modelo com as entidades **Professor**, **Aluno** e **Disciplina**:
 
