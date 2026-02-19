@@ -9,13 +9,13 @@
 
 O SQL é dividido em sublinguagens, cada uma com um propósito específico no gerenciamento dos dados.
 
-| Sigla | Significado              | Função                       | Exemplos                       |
-|------:|--------------------------|------------------------------|--------------------------------|
-| DDL   | Data Definition Language | Definição da estrutura       | 'CREATE', 'DROP', 'ALTER'      |
-| DML   | Data Manipulation Language | Manipulação de registros   | 'INSERT', 'DELETE', 'UPDATE'   |
-| DQL   | Data Query Language      | Consulta de dados            | 'SELECT'                       |
-| DCL   | Data Control Language    | Controle de acessos          | 'GRANT', 'REVOKE'              |
-| DTL   | Data Transaction Language | Gerenciamento de transações | 'COMMIT', 'ROLLBACK'           |
+| Sigla | Significado                | Função                       | Exemplos                       |
+|------:|----------------------------|------------------------------|--------------------------------|
+| DDL   | Data Definition Language   | Definição da estrutura       | 'CREATE', 'DROP', 'ALTER'      |
+| DML   | Data Manipulation Language | Manipulação de registros     | 'INSERT', 'DELETE', 'UPDATE'   |
+| DQL   | Data Query Language        | Consulta de dados            | 'SELECT'                       |
+| DCL   | Data Control Language      | Controle de acessos          | 'GRANT', 'REVOKE'              |
+| DTL   | Data Transaction Language  | Gerenciamento de transações  | 'COMMIT', 'ROLLBACK'           |
 
 
 ### Bancos de dados
