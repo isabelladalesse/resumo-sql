@@ -12,3 +12,7 @@ Este repositório reúne um resumo organizado de SQL, cobrindo desde conceitos b
 - [Consultando dados](08-consulta-dados.md)
 - [Consultando mais de uma tabela com JOINs](09-joins.md)
 - [Funções e agregações](10-funcoes.md)
+
+## Referências
+- Livro SQL - curso prático, por C. H. P. de OLIVEIRA;
+- Aulas da [@pamelaborges](https://github.com/pamelaborges) do Bootcamp Bradesco - GenAI & Dados, da DIO.
