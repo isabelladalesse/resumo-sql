@@ -15,4 +15,4 @@ Este repositório reúne um resumo organizado de SQL, cobrindo desde conceitos b
 
 ## Referências
 - Livro SQL - curso prático, por C. H. P. de OLIVEIRA;
-- Aulas da [@pamelaborges](https://github.com/pamelaborges) do Bootcamp Bradesco - GenAI & Dados, da DIO.
+- Aulas da [@pamelaborges](https://github.com/pamelaborges) no Bootcamp Bradesco - GenAI & Dados, da DIO.
