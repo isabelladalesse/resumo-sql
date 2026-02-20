@@ -43,7 +43,7 @@ A cláusula `WHERE` é utilizada para **filtrar registros** nas operações de `
 
   Exemplos: `WHERE salario > 3000`, `WHERE nota < 6`, `WHERE idade >= 18` e `WHERE quantidade <= 10`.
   
-**- LIKE (comparação de padrões):** Utilizado para buscar valores iguais a um padrão em campos de texto. O caractere % representa sequência de caracteres.
+- **LIKE (comparação de padrões):** Utilizado para buscar valores iguais a um padrão em campos de texto. O caractere % representa sequência de caracteres.
   
   Exemplo: `WHERE nome LIKE 'Ana%'`.
   
